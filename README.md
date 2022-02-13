@@ -5,7 +5,7 @@
 
   ## Description
   
-  https://github.com/yoowook1207/yooky-NoteTaker<br />
+  https://github.com/yoowook1207/yookyNoteTaker<br />
   You can take notes with this app.
 
   ## Table of Contents
@@ -21,9 +21,9 @@
   run the app from the browser.
 
   ## Usage
-  You are presented with a landing page with a link to a notes page when you open the NoteTaker.
-  Please click the link to the notes page. You may enter a new note title and contents, and save with a save icon in the navigation at the top of the page.
-  Existing notes listed in the left-hand column. If you click on an existing note in the column, that note appears in the right-hand column.
+  You are presented with a landing page with a link to a notes page when you open the NoteTaker.<br />
+  Please click the link to the notes page.<br /> You may enter a new note title and contents, and save with a save icon in the navigation at the top of the page.<br />
+  Existing notes listed in the left-hand column.<br /> If you click on an existing note in the column, that note appears in the right-hand column.
   
   
   ## License
