@@ -18,7 +18,8 @@
   
   ## Installation
 
-  run the app from the browser.
+  run the app with npm from the terminal.<br />
+  http://localhost:3002/
 
   ## Usage
   You are presented with a landing page with a link to a notes page when you open the NoteTaker.<br />
