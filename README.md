@@ -6,7 +6,9 @@
   ## Description
   
   https://github.com/yoowook1207/yookyNoteTaker<br />
-  You can take notes with this app.
+  You can take notes with this app.<br />
+  The application is deployed to Heroku. <br />
+  https://evening-ridge-17605.herokuapp.com/
 
   ## Table of Contents
   * [Installation](#installation)
